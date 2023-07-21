@@ -1,4 +1,4 @@
-![Header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1c38c1e-98cd-41b0-8b56-cf0358e7b795/d4y94dc-c9af8018-6002-4a7d-b9c6-2eba3cc6298d.jpg/v1/fill/w_1131,h_707,q_70,strp/apple_developer_wallpaper_by_chuck67322_d4y94dc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcL2QxYzM4YzFlLTk4Y2QtNDFiMC04YjU2LWNmMDM1OGU3Yjc5NVwvZDR5OTRkYy1jOWFmODAxOC02MDAyLTRhN2QtYjljNi0yZWJhM2NjNjI5OGQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.q4zmIZML8p52fZDWn9MuiVgxOrAhnvuh_G8ffiJTmVg)
+![Header](https://github.com/sandeep-hegde/sandeep-hegde/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sandeep Hegde</h1>
 <h3 align="center">A passionate iOS developer from India 🇮🇳</h3>
 
