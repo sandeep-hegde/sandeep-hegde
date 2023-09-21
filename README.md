@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/sandy_hegde" target="blank"><img src="https://img.shields.io/twitter/follow/sandy_hegde?logo=twitter&style=for-the-badge" alt="sandy_hegde" /></a> </p>
 
-- 🔭 I’m currently working on **SwiftUI & UIKit projects**
+- 🔭 I’m currently working on **SwiftUI projects**
 
-- 🌱 I’m currently learning **Swift Programming Language, SwiftUI, Swift UIKit**
+- 🌱 I’m currently learning **Swift Programming Language, SwiftUI, Swift Frameworks**
 
 - 👯 I’m looking to collaborate on **Portfolio project**
 
