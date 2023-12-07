@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **Swift Programming Language, SwiftUI, Swift Frameworks**
 
-- 👯 I’m looking to collaborate on **Portfolio project**
-
-- 🤝 I’m looking for help with **Learning iOS Development**
-
 - 💬 Ask me about **iOS Development, Data Engineering, Big Data, SQL**
 
 - 📫 How to reach me **sandeep_hegde@outlook.com**
