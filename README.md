@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Swift Programming Language, SwiftUI, Swift Frameworks**
 
-- 💬 Ask me about **iOS Development, Data Engineering**
+- 💬 Ask me about **iOS Development**
 
 - 📫 How to reach me **sandeep_hegde@outlook.com**
 
