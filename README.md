@@ -1,6 +1,6 @@
 ![Header](https://github.com/sandeep-hegde/sandeep-hegde/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sandeep Hegde</h1>
-<h3 align="center">Aspiring iOS developer from India 🇮🇳</h3>
+<h3 align="center">Indie iOS developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-hegde" /> </p>
 
